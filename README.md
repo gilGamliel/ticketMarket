@@ -1,5 +1,4 @@
 # ticketMarket
-tickets exchange 
 I designed and developed a dynamic tickets exchange management application using a modern tech stack, ensuring an efficient and seamless user experience for event creation and interaction.
 
 Technologies and Features
